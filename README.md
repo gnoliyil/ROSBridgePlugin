@@ -1,5 +1,7 @@
 # ROSBridgePlugin
 
+**This repository is currently not maintained, please go to https://github.com/gnoliyil/UROSBridge for the latest version.**
+
 A UE4 Plugin for communication with ROS Bridge using WebSockets, which supports subscribing and publishing both ROS messages (topics) and services. 
 
 This plugin is originated from Michael Jenkin and Mathias Ciarlo's [ROSBridgeLib](https://github.com/MathiasCiarlo/ROSBridgeLib), a Unity-based ROS bridge library; This repository could be used as a plugin for UE4 or UE4 projects. 
